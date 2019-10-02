@@ -1,0 +1,11 @@
+/Users/JohnLinatoc/Desktop/myApp/bin/Debug/netcoreapp3.0/myApp
+/Users/JohnLinatoc/Desktop/myApp/bin/Debug/netcoreapp3.0/myApp.deps.json
+/Users/JohnLinatoc/Desktop/myApp/bin/Debug/netcoreapp3.0/myApp.runtimeconfig.json
+/Users/JohnLinatoc/Desktop/myApp/bin/Debug/netcoreapp3.0/myApp.runtimeconfig.dev.json
+/Users/JohnLinatoc/Desktop/myApp/bin/Debug/netcoreapp3.0/myApp.dll
+/Users/JohnLinatoc/Desktop/myApp/bin/Debug/netcoreapp3.0/myApp.pdb
+/Users/JohnLinatoc/Desktop/myApp/obj/Debug/netcoreapp3.0/myApp.csprojAssemblyReference.cache
+/Users/JohnLinatoc/Desktop/myApp/obj/Debug/netcoreapp3.0/myApp.AssemblyInfoInputs.cache
+/Users/JohnLinatoc/Desktop/myApp/obj/Debug/netcoreapp3.0/myApp.AssemblyInfo.cs
+/Users/JohnLinatoc/Desktop/myApp/obj/Debug/netcoreapp3.0/myApp.dll
+/Users/JohnLinatoc/Desktop/myApp/obj/Debug/netcoreapp3.0/myApp.pdb
